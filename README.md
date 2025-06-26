@@ -132,7 +132,7 @@
 <br>Complete Resort Management System
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Forum"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="Mobile"/>
 <br><strong>🌍 GLOBAL CONNECT</strong>
 <br><em>Vue.js • Django • APIs</em>
 <br>Cultural Exchange Forum Platform
