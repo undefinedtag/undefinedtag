@@ -1,255 +1,267 @@
-<div align="center" width="100%" height="400">
+<div align="center">
 
-<img
-	align="center"
-	alt="Coder"
-	width="400"
-	src="https://github.com/VulpesDevo/Projects-Studies/blob/main/Coding.gif"
-	style="border-radius: 20px;border: 1px solid white"
-/>
+# 🌟 WELCOME TO MY DIGITAL UNIVERSE 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=MARK+FRANCIS+GALAN;🚀+FULL+STACK+WIZARD+🧙‍♂️;💻+CODE+ARCHITECT+%7C+DREAM+BUILDER+✨" alt="Epic Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Matrix"/>
+
+```
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  🎯 MISSION: Transform Ideas Into Digital Reality            ║
+    ║  🌍 LOCATION: Philippines 🇵🇭                               ║
+    ║  🎓 STATUS: IT Student & Tech Innovator                     ║
+    ║  ⚡ SUPERPOWER: Turning Coffee Into Code                    ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+
 </div>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate "><code>
-		__   __  __   __  ___      _______  _______  _______    _______  _______  ______   _______  __   __ 
-		|  | |  ||  | |  ||   |    |       ||       ||       |  |       ||       ||      | |       ||  | |  |
-		|  |_|  ||  | |  ||   |    |    _  ||    ___||  _____|  |       ||   _   ||  _    ||    ___||  |_|  |
-		|       ||  |_|  ||   |    |   |_| ||   |___ | |_____   |       ||  | |  || | |   ||   |___ |       |
-		|       ||       ||   |___ |    ___||    ___||_____  |  |      _||  |_|  || |_|   ||    ___||       |
-		 |     | |       ||       ||   |    |   |___  _____| |  |     |_ |       ||       ||   |___  |     | 
-		  |___|  |_______||_______||___|    |_______||_______|  |_______||_______||______| |_______|  |___|
-</code></pre><div class="zeroclipboard-container"> <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="__   __  __   __  ___      _______  _______  _______    _______  _______  ______   _______  __   __ 
-|  | |  ||  | |  ||   |    |       ||       ||       |  |       ||       ||      | |       ||  | |  |
-|  |_|  ||  | |  ||   |    |    _  ||    ___||  _____|  |       ||   _   ||  _    ||    ___||  |_|  |
-|       ||  |_|  ||   |    |   |_| ||   |___ | |_____   |       ||  | |  || | |   ||   |___ |       |
-|       ||       ||   |___ |    ___||    ___||_____  |  |      _||  |_|  || |_|   ||    ___||       |
- |     | |       ||       ||   |    |   |___  _____| |  |     |_ |       ||       ||   |___  |     | 
-  |___|  |_______||_______||___|    |_______||_______|  |_______||_______||______| |_______|  |___|" tabindex="0" role="button"> <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon"> <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path> </svg> <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none"> <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path> </svg> </clipboard-copy>
+## 🎮 PLAYER STATS & ACHIEVEMENTS
 
+<div align="center">
 
-<h3 align="center">A passionate Web Developer from the Philippines</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=undefinedtag&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
-<img align="right" alt="Coder" width="400" height="400" src="https://github.com/undefinedtag/Projects-Studies/blob/main/giphy.gif" style="border-radius: 20px;">
+<table>
+<tr>
+<td>
 
+### 🏆 LEGENDARY ACHIEVEMENTS
+```
+🥇 DBP RISE SCHOLAR
+   └─ Elite Developer Program
+   
+👑 ORGANIZATION LEADER
+   └─ Events Manager & PIO (2022-2024)
+   
+🎖️ CERTIFIED SPECIALIST
+   └─ HTML & CSS Mastery
+   
+🏛️ HACKATHON WARRIOR
+   └─ DICT Hack4Gov 2 Participant
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=undefinedtag&label=Profile%20views&color=1e005a&style=flat" alt="undefinedtag" /> </p>
+</td>
+<td>
 
-- 🌱 I’m currently learning **Vue JS, React JS**
-- 📚 Currently taking Bachelors Degree in Information Technology
-- 👨‍💻 All of my projects are available at [https://github.com/undefinedtag](https://github.com/undefinedtag)
-- 📫 How to reach me **francisgalan21@gmail.com**
-- 📄 Know about ME <a href="https://drive.google.com/file/d/1GTRD-aZlFQF4jB4dDaQadGFmitddEHoH/view?usp=sharing" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/24/ffa500/resume.png" alt="Resume" />
+### 📊 POWER LEVEL STATS
+<img src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&count_private=true" alt="GitHub Stats"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+
+## 🔥 TECH ARSENAL & BATTLE GEAR
+
+<div align="center">
+
+### ⚔️ WEAPONS OF CHOICE
+
+<img src="https://skillicons.dev/icons?i=js,python,java,cs,php,html,css,vue,react,nodejs,django,laravel,mongodb,mysql,git,figma,vscode&theme=dark" alt="Tech Stack"/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 FRONTEND MAGIC
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Web Dev"/>
+
+```
+🌟 Vue.js Sorcerer
+⚡ React Ninja  
+🎭 CSS Wizard
+🚀 JavaScript Master
+💎 TailwindCSS Artist
+```
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ BACKEND POWER
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Backend"/>
+
+```
+🐍 Python Django Beast
+🔥 Laravel Commander
+⚡ Node.js Speedster
+🗄️ Database Architect
+🔧 API Constructor
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ TOOLS & UTILITIES
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Tools"/>
+
+```
+🌿 Git Version Master
+🎨 Figma Design Pro
+💻 VS Code Warrior
+☁️ Cloud Deployer
+🔍 Debug Detective
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+
+## 🚀 EPIC PROJECT SHOWCASE
+
+<div align="center">
+
+### 💫 LEGENDARY CREATIONS
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Web App"/>
+<br><strong>🏨 HOTEL EMPIRE</strong>
+<br><em>Vue.js • Django • MongoDB</em>
+<br>Complete Resort Management System
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Forum"/>
+<br><strong>🌍 GLOBAL CONNECT</strong>
+<br><em>Vue.js • Django • APIs</em>
+<br>Cultural Exchange Forum Platform
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="Mobile"/>
+<br><strong>📱 LIFESTYLE HUB</strong>
+<br><em>Python Kivy</em>
+<br>Entertainment Mobile Application
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="System"/>
+<br><strong>📦 INVENTORY MASTER</strong>
+<br><em>C# Visual Studio</em>
+<br>Business Management System
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257469-7e8c204f-c118-4d92-9c04-6e36440d17a2.gif" width="100" alt="Support"/>
+<br><strong>🎫 SUPPORT CENTRAL</strong>
+<br><em>HTML • CSS • JavaScript</em>
+<br>IT Ticketing System
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257464-4e7b6c07-6c87-4721-b1dd-685ccccf5112.gif" width="100" alt="Portfolio"/>
+<br><strong>🌐 DIGITAL PORTFOLIO</strong>
+<br><em>Modern Web Tech</em>
+<br><a href="https://mrk-frncs.netlify.app">🚀 LIVE DEMO</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+
+## 📈 BATTLE STATISTICS & ANALYTICS
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedtag&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&langs_count=8" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=undefinedtag&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+### 🎯 CODING ACTIVITY HEATMAP
+<img src="https://ghchart.rshah.org/FF6B35/undefinedtag" alt="GitHub Chart"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+
+## 🌟 CONNECT WITH THE LEGEND
+
+<div align="center">
+
+### 🚀 JOIN MY DIGITAL ADVENTURE
+
+<a href="https://www.linkedin.com/in/mark-francis-galan-3bb21228b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=FF6B35" alt="LinkedIn"/>
+</a>
+<a href="mailto:francisgalan21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF6B35" alt="Gmail"/>
+</a>
+<a href="https://mrk-frncs.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722&color=FF6B35" alt="Portfolio"/>
+</a>
+<a href="https://drive.google.com/file/d/1GTRD-aZlFQF4jB4dDaQadGFmitddEHoH/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=FF6B35" alt="Resume"/>
 </a>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Rocket"/>
 
-👨‍💻**Languages and Tools:**
-<p align="left" >
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
-			alt="csharp"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
-			alt="css3"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"
-			alt="django"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
-			alt="figma"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
-			alt="git"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
-			alt="html5"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
-			alt="java"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a
-		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-		target="_blank"
-		rel="noreferrer"
-	>
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
-			alt="javascript"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
-			alt="mongodb"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
-			alt="mysql"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
-			alt="nodejs"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
-			alt="python"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
-			alt="tailwind"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg"
-			alt="vuejs"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://react.dev" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
-			alt="react"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
-			alt="php"
-			width="40"
-			height="40"
-		/>
-	</a>
-		<a href="https://laravel.com/docs/11.x/" target="_blank" rel="noreferrer">
-		<img
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
-			alt="laravel"
-			width="40"
-			height="40"
-		/>
-	</a>
-</p>
+### 💬 CURRENT MISSION STATUS
 
-<hr>
-<p align="center">
-	<a href="https://github.com/undefinedtag/github-profile-trophy">
-		<img
-			src="https://github-profile-trophy.vercel.app/?username=undefinedtag&theme=darkhub"
-			alt="vulpesdevo"
-		/>
-	</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🎯+Mastering+Vue.js+%26+React.js;🚀+Building+Epic+Web+Applications;💡+Solving+Complex+Problems;🌟+Creating+Digital+Magic;☕+Converting+Coffee+to+Code" alt="Current Status"/>
 
-<hr>
-	
-🏆**Accomplishments:**
-- Development Bank of the Philippines - DBP RISE Scholar
-- Events Manager and PIO of BSIT Organization for the year 2022-2024
-  
-📄**Certifications:**
-- Information Technology Specialist in HTML and CSS certification from Certiport May 2024
-- DICT Hack4Gov 2 Certificate of Participation
+### 🎮 ACHIEVEMENT UNLOCKED
+```
+🏆 Profile Views: LEGENDARY LEVEL
+⭐ GitHub Stars: RISING STAR  
+🔥 Commit Streak: ON FIRE
+💻 Projects: PORTFOLIO MASTER
+🎓 Learning: NEVER STOPS
+```
 
-👨‍💻**Projects:**
-- Inventory Management System using  Visual Studio C#
-- Lifestyle and entertainment mobile application using Kivy Python
-- Basic Transaction System using Apache NetBeans Java
-- IT Support Ticketing system using HTML, CSS and JAVASCRIPT
-- Hotel/Resort Management System using Vue.js, Django Python and mongoDb
-- A Capstone Project, A Multi-Platform Web Forum Application for Global Cultural Exchange using Vue.js, Django Python, and mongoDb with API’s
-- <a href="https://mrk-frncs.netlify.app" target="_blank"> My Porfolio</a> 
-<hr>
-  
-## Github Statistics: 
-<p>
-<img
-	align="right"
-	src="https://github-readme-stats.vercel.app/api/top-langs?username=undefinedtag&show_icons=true&locale=en&layout=compact&bg_color=1a1b27&text_color=ffffff"
-	alt="undefinedtag"
-/>
-</p>
-<p>
-	<img
-		src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&locale=en&bg_color=1a1b27&text_color=ffffff"
-		alt="undefinedtag"
-	/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=undefinedtag&label=PROFILE+VIEWS&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
 
-<p>
-	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&background=1a1b27&stroke=cc6804&ring=cc6804&fire=cc6804&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
-		alt="undefinedtag"
-	/>
-</p>
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://www.linkedin.com/in/mark-francis-galan-3bb21228b/" target="_blank"
-		><img
-			align="center"
-			src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
-			alt="mark francis galan"
-			height="30"
-			width="40"
-	/></a>
-	
-</p>
+<div align="center">
+
+### 🎭 RANDOM DEV WISDOM
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
+
+### 🎵 CURRENTLY VIBING TO
+<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=FF6B35" alt="Spotify"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANKS+FOR+VISITING+MY+UNIVERSE!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
+
+### 🌟 REMEMBER: EVERY EXPERT WAS ONCE A BEGINNER! 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Thank You"/>
+
+**⭐ STAR MY REPOS IF THEY SPARK JOY! ⭐**
+
+</div>
+```
+
+## 📋 How to Use:
+
+1. **Copy the entire code above** (everything between the code block)
+2. **Go to your GitHub profile** (github.com/undefinedtag)
+3. **Create or edit your README.md file** in your profile repository
+4. **Paste the code** and commit the changes
+5. **Watch your profile transform!** 🚀
+
+## 🔧 Optional Customizations:
+
+- **Spotify Integration**: The Spotify widget might need setup if you want to show your current music
+- **Personal Images**: You can replace any GIF URLs with your own custom animations
+- **Colors**: Change `FF6B35` to any hex color you prefer throughout the code
+- **Projects**: Update the project descriptions to match your actual repositories
+
+Your GitHub profile will now look absolutely EPIC! 🌟✨
 
