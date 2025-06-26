@@ -189,9 +189,12 @@
 
 <hr>
 <p align="center">
-  <a href="https://github.com/undefinedtag/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=undefinedtag&theme=darkhub" alt="vulpesdevo" />
-  </a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img
+			src="https://github-profile-trophy.vercel.app/?username=vulpesdevo&theme=darkhub"
+			alt="vulpesdevo"
+		/>
+	</a>
 </p>
 
 <hr>
@@ -215,10 +218,25 @@
 <hr>
   
 ## Github Statistics: 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&theme=dark&bg_color=1a1b27&text_color=ffffff" alt="vulpesdevo stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedtag&layout=compact&theme=dark&bg_color=1a1b27&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=dark&background=1a1b27&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" />
+<p>
+<img
+	align="right"
+	src="https://github-readme-stats.vercel.app/api/top-langs?username=vulpesdevo&show_icons=true&locale=en&layout=compact&bg_color=1a1b27&text_color=ffffff"
+	alt="vulpesdevo"
+/>
+</p>
+<p>
+	<img
+		src="https://github-readme-stats.vercel.app/api?username=vulpesdevo&show_icons=true&locale=en&bg_color=1a1b27&text_color=ffffff"
+		alt="vulpesdevo"
+	/>
+</p>
+
+<p>
+	<img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&background=1a1b27&stroke=cc6804&ring=cc6804&fire=cc6804&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+		alt="vulpesdevo"
+	/>
 </p>
 
 
@@ -234,5 +252,4 @@
 	/></a>
 	
 </p>
-
 
