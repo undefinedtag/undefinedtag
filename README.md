@@ -20,12 +20,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=MARK+FRANCIS;FULL+STACK+WIZARD;CODE+ARCHITECT+%7C+DREAM+BUILDER"
-    alt="Typing SVG"
-    style="max-width: 100%; height: auto;"
-  />
-
+  
   <img
     alt="Coder"
     width="400"
@@ -33,6 +28,12 @@
     src="https://github.com/undefinedtag/Projects-Studies/blob/main/giphy.gif"
     style="border-radius: 20px;"
   />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=MARK+FRANCIS;FULL+STACK+WIZARD;CODE+ARCHITECT+%7C+DREAM+BUILDER"
+    alt="Typing SVG"
+    style="max-width: 100%; height: auto;"
+  />
+
 
 </div>
 
