@@ -189,8 +189,8 @@
 
 <hr>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vulpesdevo&theme=darkhub" alt="vulpesdevo" />
+  <a href="https://github.com/undefinedtag/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=undefinedtag&theme=darkhub" alt="vulpesdevo" />
   </a>
 </p>
 
@@ -216,9 +216,9 @@
   
 ## Github Statistics: 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vulpesdevo&show_icons=true&theme=dark&bg_color=1a1b27&text_color=ffffff" alt="vulpesdevo stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulpesdevo&layout=compact&theme=dark&bg_color=1a1b27&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&theme=dark&background=1a1b27&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&theme=dark&bg_color=1a1b27&text_color=ffffff" alt="vulpesdevo stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedtag&layout=compact&theme=dark&bg_color=1a1b27&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=dark&background=1a1b27&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 
