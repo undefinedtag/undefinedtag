@@ -28,14 +28,14 @@
 
 <h3 align="center">A passionate Web Developer from the Philippines</h3>
 
-<img align="right" alt="Coder" width="400" height="400" src="https://github.com/VulpesDevo/Projects-Studies/blob/main/giphy.gif" style="border-radius: 20px;">
+<img align="right" alt="Coder" width="400" height="400" src="https://github.com/undefinedtag/Projects-Studies/blob/main/giphy.gif" style="border-radius: 20px;">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vulpesdevo&label=Profile%20views&color=1e005a&style=flat" alt="vulpesdevo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=undefinedtag&label=Profile%20views&color=1e005a&style=flat" alt="undefinedtag" /> </p>
 
 - 🌱 I’m currently learning **Vue JS, React JS**
 - 📚 Currently taking Bachelors Degree in Information Technology
-- 👨‍💻 All of my projects are available at [https://github.com/VulpesDevo](https://github.com/VulpesDevo)
+- 👨‍💻 All of my projects are available at [https://github.com/undefinedtag](https://github.com/undefinedtag)
 - 📫 How to reach me **francisgalan21@gmail.com**
 - 📄 Know about ME <a href="https://drive.google.com/file/d/1GTRD-aZlFQF4jB4dDaQadGFmitddEHoH/view?usp=sharing" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/material-outlined/24/ffa500/resume.png" alt="Resume" />
@@ -189,9 +189,9 @@
 
 <hr>
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<a href="https://github.com/undefinedtag/github-profile-trophy">
 		<img
-			src="https://github-profile-trophy.vercel.app/?username=vulpesdevo&theme=darkhub"
+			src="https://github-profile-trophy.vercel.app/?username=undefinedtag&theme=darkhub"
 			alt="vulpesdevo"
 		/>
 	</a>
@@ -221,21 +221,21 @@
 <p>
 <img
 	align="right"
-	src="https://github-readme-stats.vercel.app/api/top-langs?username=vulpesdevo&show_icons=true&locale=en&layout=compact&bg_color=1a1b27&text_color=ffffff"
-	alt="vulpesdevo"
+	src="https://github-readme-stats.vercel.app/api/top-langs?username=undefinedtag&show_icons=true&locale=en&layout=compact&bg_color=1a1b27&text_color=ffffff"
+	alt="undefinedtag"
 />
 </p>
 <p>
 	<img
-		src="https://github-readme-stats.vercel.app/api?username=vulpesdevo&show_icons=true&locale=en&bg_color=1a1b27&text_color=ffffff"
-		alt="vulpesdevo"
+		src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&locale=en&bg_color=1a1b27&text_color=ffffff"
+		alt="undefinedtag"
 	/>
 </p>
 
 <p>
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=vulpesdevo&background=1a1b27&stroke=cc6804&ring=cc6804&fire=cc6804&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
-		alt="vulpesdevo"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&background=1a1b27&stroke=cc6804&ring=cc6804&fire=cc6804&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+		alt="undefinedtag"
 	/>
 </p>
 
