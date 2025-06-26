@@ -179,16 +179,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=undefinedtag&theme=radical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
 ### 🎯 COMPREHENSIVE CODING ANALYTICS
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undefinedtag&theme=radical" alt="GitHub Profile Details"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=undefinedtag&theme=radical&utc_offset=8" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=undefinedtag&theme=radical" alt="Repos Per Language"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=undefinedtag&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -237,9 +233,7 @@
 <div align="center">
 
 ### 🎭 WORDS OF WISDOM
-
-> *"If you learn how to solve problems, you can go through life and do pretty well."*  
-> **- Gary Kildall**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Wisdom"/>
 
