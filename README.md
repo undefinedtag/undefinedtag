@@ -138,7 +138,7 @@
 <br>Cultural Exchange Forum Platform
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="Mobile"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="System"/>
 <br><strong>📱 LIFESTYLE HUB</strong>
 <br><em>Python Kivy</em>
 <br>Entertainment Mobile Application
@@ -146,7 +146,6 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="System"/>
 <br><strong>📦 INVENTORY MASTER</strong>
 <br><em>C# Visual Studio</em>
 <br>Business Management System
