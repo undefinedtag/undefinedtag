@@ -8,7 +8,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🎯 MISSION: Transform Ideas Into Digital Reality            ║
+ ║ 🎯 MISSION: Transform Ideas Into Digital Reality           ║
 ║  🌍 LOCATION: Philippines 🇵🇭                                ║
 ║  🎓 STATUS: IT Student & Tech Innovator                     ║
 ║  ⚡ SUPERPOWER: Turning Coffee Into Code                    ║
@@ -209,7 +209,7 @@
 
 ### 💬 CURRENT MISSION STATUS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🎯+Mastering+Vue.js+%26+React.js;🚀+Building+Epic+Web+Applications;💡+Solving+Complex+Problems;🌟+Creating+Digital+Magic;☕+Converting+Coffee+to+Code" alt="Current Status"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🎯+Mastering+Vue.js+%26+React.js;🚀+Building+Epic+Web+/+Mobile+Applications;💡+Solving+Complex+Problems;🌟+Creating+Digital+Magic;☕+Converting+Coffee+to+Code" alt="Current Status"/>
 
 ### 🎮 ACHIEVEMENT UNLOCKED
 ```
