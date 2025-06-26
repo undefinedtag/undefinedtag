@@ -186,7 +186,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
 
-## 🌟 CONNECT WITH THE LEGEND
+## CONNECT WITH THE LEGEND
 
 <div align="center">
 
@@ -207,11 +207,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Rocket"/>
 
-### 💬 CURRENT MISSION STATUS
+### CURRENT MISSION STATUS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🎯+Mastering+Vue.js+%26+React.js;🚀+Building+Epic+Web+/+Mobile+Applications;💡+Solving+Complex+Problems;🌟+Creating+Digital+Magic;☕+Converting+Coffee+to+Code" alt="Current Status"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=+Mastering+Vue.js+%26+React.js;+Building+Epic+Web+/+Mobile+Applications;+Solving+Complex+Problems;+Creating+Digital+Magic;+Converting+Coffee+to+Code" alt="Current Status"/>
 
-### 🎮 ACHIEVEMENT UNLOCKED
+### ACHIEVEMENT UNLOCKED
 ```
 🏆 Profile Views: LEGENDARY LEVEL
 ⭐ GitHub Stars: RISING STAR  
@@ -228,7 +228,7 @@
 
 <div align="center">
 
-### 🎭 WORDS OF WISDOM
+### WORDS OF WISDOM
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Wisdom"/><br><br>
