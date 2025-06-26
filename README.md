@@ -6,14 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Matrix"/>
 
-
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║  🎯 MISSION: Transform Ideas Into Digital Reality            ║
 ║  🌍 LOCATION: Philippines 🇵🇭                                ║
 ║  🎓 STATUS: IT Student & Tech Innovator                     ║
 ║  ⚡ SUPERPOWER: Turning Coffee Into Code                    ║
 ╚══════════════════════════════════════════════════════════════╝
-
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
 
@@ -169,7 +169,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
 
-## 📈 BATTLE STATISTICS & ANALYTICS
+## BATTLE STATISTICS & ANALYTICS
 
 <div align="center">
 
@@ -177,8 +177,6 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedtag&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&langs_count=8" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak"/>
-
-### 🎯 COMPREHENSIVE CODING ANALYTICS
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undefinedtag&theme=radical" alt="GitHub Profile Details"/>
 
