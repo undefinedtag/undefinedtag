@@ -8,7 +8,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
- ║ 🎯 MISSION: Transform Ideas Into Digital Reality           ║
+║  🎯 MISSION: Transform Ideas Into Digital Reality           ║
 ║  🌍 LOCATION: Philippines 🇵🇭                                ║
 ║  🎓 STATUS: IT Student & Tech Innovator                     ║
 ║  ⚡ SUPERPOWER: Turning Coffee Into Code                    ║
