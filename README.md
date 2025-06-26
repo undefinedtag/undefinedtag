@@ -178,8 +178,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undefinedtag&theme=radical" alt="GitHub Profile Details"/>
-
 
 
 </div>
