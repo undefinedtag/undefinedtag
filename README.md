@@ -181,15 +181,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=undefinedtag&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 ### 🎯 CODING ACTIVITY HEATMAP
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/undefinedtag/undefinedtag/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/undefinedtag/undefinedtag/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/undefinedtag/undefinedtag/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://ghchart.rshah.org/FF6B35/undefinedtag" alt="GitHub Chart"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undefinedtag&theme=radical" alt="GitHub Profile Summary"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&count_private=true&include_all_commits=true&custom_title=📊%20Complete%20GitHub%20Analytics" alt="Complete GitHub Stats"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
@@ -249,5 +242,4 @@
 **⭐ STAR MY REPOS IF THEY SPARK JOY! ⭐**
 
 </div>
-
 
