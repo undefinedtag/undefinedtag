@@ -48,7 +48,7 @@
 <td>
 
 ### 📊 POWER LEVEL STATS
-<img src="https://github-readme-stats.vercel.app/api?username=undefinedtag&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=undefinedtag&theme=radical&utc_offset=8" alt="Productive Time"/>
 
 </td>
 </tr>
@@ -180,7 +180,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undefinedtag&theme=radical" alt="GitHub Profile Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=undefinedtag&theme=radical&utc_offset=8" alt="Productive Time"/>
 
 
 </div>
@@ -233,8 +232,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Wisdom"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANKS+FOR+VISITING+MY+UNIVERSE!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANKS+FOR+VISITING+MY+UNIVERSE!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
 
 ### 🌟 REMEMBER: EVERY EXPERT WAS ONCE A BEGINNER! 🌟
 
