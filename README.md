@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=MARK+FRANCIS;FULL+STACK+WIZARD;CODE+ARCHITECT+%7C+DREAM+BUILDER" alt="Epic Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Matrix"/>
-
+<img align="right" alt="Coder" width="400" height="400" src="https://github.com/VulpesDevo/Projects-Studies/blob/main/giphy.gif" style="border-radius: 20px;">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate "><code>
 		__   __  __   __  ___      _______  _______  _______    _______  _______  ______   _______  __   __ 
 		|  | |  ||  | |  ||   |    |       ||       ||       |  |       ||       ||      | |       ||  | |  |
