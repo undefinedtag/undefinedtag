@@ -7,12 +7,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Matrix"/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🎯 MISSION: Transform Ideas Into Digital Reality            ║
-║  🌍 LOCATION: Philippines 🇵🇭                                 ║
-║  🎓 STATUS: IT Student & Tech Innovator                      ║
-║  ⚡ SUPERPOWER: Turning Coffee Into Code                     ║
-╚══════════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  🎯 MISSION: Transform Ideas Into Digital Reality            ║
+    ║  🌍 LOCATION: Philippines 🇵🇭                               ║
+    ║  🎓 STATUS: IT Student & Tech Innovator                     ║
+    ║  ⚡ SUPERPOWER: Turning Coffee Into Code                    ║
+    ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
@@ -132,13 +132,13 @@
 <br>Complete Resort Management System
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="Mobile"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Forum"/>
 <br><strong>🌍 GLOBAL CONNECT</strong>
 <br><em>Vue.js • Django • APIs</em>
 <br>Cultural Exchange Forum Platform
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="System"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="Mobile"/>
 <br><strong>📱 LIFESTYLE HUB</strong>
 <br><em>Python Kivy</em>
 <br>Entertainment Mobile Application
@@ -146,6 +146,7 @@
 </tr>
 <tr>
 <td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="System"/>
 <br><strong>📦 INVENTORY MASTER</strong>
 <br><em>C# Visual Studio</em>
 <br>Business Management System
@@ -178,10 +179,16 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefinedtag&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=undefinedtag&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=undefinedtag&theme=radical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
-### 🎯 CODING ACTIVITY HEATMAP
-<img src="https://ghchart.rshah.org/FF6B35/undefinedtag" alt="GitHub Chart"/>
+### 🎯 COMPREHENSIVE CODING ANALYTICS
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undefinedtag&theme=radical" alt="GitHub Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=undefinedtag&theme=radical&utc_offset=8" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=undefinedtag&theme=radical" alt="Repos Per Language"/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=undefinedtag&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -229,17 +236,17 @@
 
 <div align="center">
 
-### 🎭 RANDOM DEV WISDOM
+### 🎭 WORDS OF WISDOM
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
+> *"If you learn how to solve problems, you can go through life and do pretty well."*  
+> **- Gary Kildall**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Wisdom"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANKS+FOR+VISITING+MY+UNIVERSE!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
 
 ### 🌟 REMEMBER: EVERY EXPERT WAS ONCE A BEGINNER! 🌟
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Thank You"/>
-
 **⭐ STAR MY REPOS IF THEY SPARK JOY! ⭐**
 
 </div>
-
