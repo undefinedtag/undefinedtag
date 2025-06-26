@@ -247,20 +247,3 @@
 </div>
 ```
 
-## 📋 How to Use:
-
-1. **Copy the entire code above** (everything between the code block)
-2. **Go to your GitHub profile** (github.com/undefinedtag)
-3. **Create or edit your README.md file** in your profile repository
-4. **Paste the code** and commit the changes
-5. **Watch your profile transform!** 🚀
-
-## 🔧 Optional Customizations:
-
-- **Spotify Integration**: The Spotify widget might need setup if you want to show your current music
-- **Personal Images**: You can replace any GIF URLs with your own custom animations
-- **Colors**: Change `FF6B35` to any hex color you prefer throughout the code
-- **Projects**: Update the project descriptions to match your actual repositories
-
-Your GitHub profile will now look absolutely EPIC! 🌟✨
-
