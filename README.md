@@ -233,8 +233,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
 
-### 🎵 CURRENTLY VIBING TO
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANKS+FOR+VISITING+MY+UNIVERSE!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
 
 ### 🌟 REMEMBER: EVERY EXPERT WAS ONCE A BEGINNER! 🌟
@@ -244,5 +242,5 @@
 **⭐ STAR MY REPOS IF THEY SPARK JOY! ⭐**
 
 </div>
-```
+
 
