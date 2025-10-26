@@ -56,7 +56,6 @@
 ### 🏆 LEGENDARY ACHIEVEMENTS
 ```
 🥇 DBP RISE SCHOLAR
-   └─ Elite Developer Program
    
 👑 ORGANIZATION LEADER
    └─ Events Manager & PIO (2022-2024)
