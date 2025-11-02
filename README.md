@@ -8,7 +8,7 @@
 
 **📍 Bacoor City, Cavite | 📧 francisgalan21@gmail.com | 📱 09196413263**
 
-[LinkedIn](https://www.linkedin.com/in/mark-francis-galan-3bb21228b/) • [Portfolio](https://mrk-frncs.netlify.app) • [Resume](https://drive.google.com/file/d/1GTRD-aZlFQF4jB4dDaQadGFmitddEHoH/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/mark-francis-galan/) • [Resume](https://drive.google.com/file/d/1ndrqh7fKsXt1ZvlzAUhNqas-YWkjXbGU/view?usp=drive_link)
 
 </div>
 
@@ -177,6 +177,7 @@
 🔬 IoT & Embedded Systems Expertise
 📱 Mobile App Development Specialist
 🌍 International Conference Presenter
+
 <img src="https://komarev.com/ghpvc/?username=undefinedtag&label=PROFILE+VIEWS&color=FF6B35&style=for-the-badge"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
