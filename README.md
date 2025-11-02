@@ -148,7 +148,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mark-francis-galan-3bb21228b/">
+<a href="https://www.linkedin.com/in/mark-francis-galan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=FF6B35"/>
 </a>
 <a href="mailto:francisgalan21@gmail.com">
@@ -157,7 +157,7 @@
 <a href="https://mrk-frncs.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722&color=FF6B35"/>
 </a>
-<a href="https://drive.google.com/file/d/1GTRD-aZlFQF4jB4dDaQadGFmitddEHoH/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1ndrqh7fKsXt1ZvlzAUhNqas-YWkjXbGU/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=FF6B35"/>
 </a>
 
