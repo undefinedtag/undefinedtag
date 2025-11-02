@@ -17,7 +17,7 @@
 ## 🎓 EDUCATION & ACHIEVEMENTS
 
 **Bachelor of Science in Information Technology** | St. Dominic College of Asia  
-*July 2025 | GWA: 1.25 | Dean's List*
+*July 2025 | GWA: 1.28 | Dean's List*
 
 ### 🏆 RECENT HONORS
 - 🥇 **Best Capstone Project Award** - CULTURALINK (5th SDCA International Multidisciplinary Research Conference)
